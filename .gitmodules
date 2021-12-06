@@ -1,0 +1,12 @@
+[submodule "Shared"]
+	path = Shared
+	url = git@github.com:AlgorithmEasy/Shared.git
+[submodule "StudentSide"]
+	path = StudentSide
+	url = git@github.com:AlgorithmEasy/StudentSide.git
+[submodule "Server.UserCenter"]
+	path = Server.UserCenter
+	url = git@github.com:AlgorithmEasy/Server.UserCenter.git
+[submodule "Server.ProjectCenter"]
+	path = Server.ProjectCenter
+	url = git@github.com:AlgorithmEasy/Server.ProjectCenter.git
