@@ -10,3 +10,6 @@
 [submodule "Server.ProjectCenter"]
 	path = Server.ProjectCenter
 	url = git@github.com:AlgorithmEasy/Server.ProjectCenter.git
+[submodule "Server.CourseCenter"]
+	path = Server.CourseCenter
+	url = git@github.com:AlgorithmEasy/Server.CourseCenter.git
